@@ -1,0 +1,6 @@
+Comandos do Git:
+
+1 - Para adicionar todos os arquivos do meu projeto: $
+2 - Para efetuar commit: $ git commit -m "Digite Mensagem"
+3 - Para mandar os arquivos para o servidor: $ git push orgin master
+4 - Para puchar o projeto para o seu computador: $ git pull origin master
